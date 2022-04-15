@@ -1,4 +1,4 @@
 local data = {
-    {"Test2", "Test Script 2", [[print("hi")]]}
+    {"Test2", "Test Script 2", [[print("hidd")]]}
 }
 return data
