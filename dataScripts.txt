@@ -1,4 +1,0 @@
-local data = {
-    {"Test2", "Test Script 2", [[print("hidd")]]}
-}
-return data
