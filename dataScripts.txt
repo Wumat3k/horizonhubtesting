@@ -1,0 +1,4 @@
+local data={
+{"GAYPORN", "testing", "[[print('hi')]]"},
+}
+return data

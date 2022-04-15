@@ -1,4 +1,4 @@
-local cats = {
-"Test2"
+local categories={
+"GAYPORN",
 }
-return cats
+return categories
